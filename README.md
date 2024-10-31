@@ -15,4 +15,4 @@ The GitHub Team
 
 =====
 
-So we dedicded to blow this popsicle stand and start our own [gitea](https://gitea.moeny.ai/moeny). This way, no Microsoft sniff'n our sniffies. See you over there!
+So we decided to blow this popsicle stand and start our own [gitea](https://gitea.moeny.ai/moeny). This way, no Microsoft sniff'n our sniffies. See you over there!
