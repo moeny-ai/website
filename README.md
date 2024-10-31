@@ -1,5 +1,7 @@
 # moeny.ai 💰
 
+### ABANDONED
+
 GitHub wouldn't let us obtain the dormant username moeny as per their still posted Name Squatting Policy.
 
 Thank you for your request. It appears that you are asking about releasing a dormant or inactive username. We no longer review requests to release dormant or inactive usernames. You can view our Username Policy here:
